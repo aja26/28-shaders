@@ -1,1 +1,1 @@
-link: https://28-shaders-ten.vercel.app/
+link to view experience: https://28-shaders-ten.vercel.app/
